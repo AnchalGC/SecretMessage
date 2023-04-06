@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SecretMessage</string>
+    <string name="welcome_text">
+        Welcome to the secret Message Application!
+        Click on the start button to to encrypt a secret message.
+    </string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="message_hint1">Please enter first your secret message</string>
+    <string name="message_hint2">Please enter second your secret message</string>
+    <string name="next">Next</string>
+    <string name="encrypt_text1">Here is your first encrypted message</string>
+    <string name="encrypt_text2">Here is your second encrypted message</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
